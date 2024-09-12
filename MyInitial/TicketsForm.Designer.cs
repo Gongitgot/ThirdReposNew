@@ -170,6 +170,7 @@
         private System.Windows.Forms.RadioButton radBalcony;
         private System.Windows.Forms.RadioButton radGeneral;
         private System.Windows.Forms.RadioButton radBox;
+        private System.Windows.Forms.RadioButton radBackStall;
         private System.Windows.Forms.GroupBox grpSection;
         private System.Windows.Forms.Button cmdCalculate;
     }
